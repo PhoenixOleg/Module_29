@@ -89,3 +89,7 @@ header, footer, body, .video-container {
     font-style: italic;
     text-align: center;
 }
+
+.reviews {
+    padding-left: 1%;
+}

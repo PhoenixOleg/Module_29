@@ -93,3 +93,13 @@ header, footer, body, .video-container {
 .reviews {
     padding-left: 1%;
 }
+
+.reviews-caption {
+    font-style:italic;
+}
+.review-button {
+    display: inline-block;
+    margin-top: 0.5em;
+    /*padding-left: 1%;*/
+    padding-top: 1%;
+}
